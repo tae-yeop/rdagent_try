@@ -178,3 +178,6 @@ rdagent/app/benchmark/factor/example.json
 # UI Server resources
 videos/
 static/
+
+# repomix full-codebase dumps (LLM context, not source)
+repomix-output*.xml
